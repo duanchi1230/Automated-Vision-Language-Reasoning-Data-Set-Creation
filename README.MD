@@ -7,10 +7,10 @@
 
 ## Paragraph: If someone add one more circle to the image, there will be two circles in total in the image.
 
-## Question: Determine whether the passage is a valid argument for the given image.
+Question: Determine whether the passage is a valid argument for the given image.
 
-## Answer: A. True; B. False
-## Correct Answer: True
+Answer: A. True; B. False
+Correct Answer: True
 
 # Generation Methodology 
 ## The manually created formats are used to generate text paragraph, question, answer choices. The formats can be categorized into five main types based on the methods to generate the texts from the image. 
