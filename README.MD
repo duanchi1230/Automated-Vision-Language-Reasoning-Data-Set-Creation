@@ -31,7 +31,7 @@ The manually created formats are used to generate text paragraph, question, answ
 In order to simplify the dataset generation process due to time limitation, all the answers in this generated data set has a uniform two-option format of ["True", "False"] instead of four-options case.  
 
 
-# **Files** 
+# Files
 The file Bonus_Task_Generation.ipynb is the script created with Colab to generate the data set.  
 The file shapeworld_dataset.csv is the collection of the text data in csv format.
 The file shapeworld_dataset.json is the collection of the text data in json format.
